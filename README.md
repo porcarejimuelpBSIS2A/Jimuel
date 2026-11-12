@@ -60,7 +60,7 @@ The `images` folder contains original SVG illustrations made for this project. T
 
 Your website address will usually look like:
 
-`https://YOUR-GITHUB-USERNAME.github.io/gameverse/`
+`https://github.com/porcarejimuelpBSIS2A/Jimuel.git`
 
 Replace `YOUR-GITHUB-USERNAME` with your GitHub username. If you used a different repository name, replace `gameverse` with that name.
 
