@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#101438"/><stop offset="1" stop-color="#30134c"/></linearGradient><linearGradient id="road" x2="0" y2="1"><stop stop-color="#251a4c"/><stop offset="1" stop-color="#090b1c"/></linearGradient><linearGradient id="neon"><stop stop-color="#c44cff"/><stop offset="1" stop-color="#32dfff"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#sky)"/><circle cx="660" cy="140" r="90" fill="#8c45ff" opacity=".16"/><path d="M0 330L110 230 205 310 300 185 400 315 500 210 610 320 720 190 900 330V620H0Z" fill="#171a3b"/>
+<path d="M0 350h120v-170h90v170h55V250h95v100h75V150h100v200h65V220h105v130h80V190h115v160h100v270H0Z" fill="#0b1028" stroke="#3b3b78" stroke-width="3"/>
+<g fill="#a94eff"><path d="M35 220h10v20H35zm30 0h10v20H65zm60 40h12v25h-12zm90-80h12v22h-12zm95 95h12v25h-12zm200-90h12v25h-12zm150 70h12v25h-12zm130-45h12v25h-12z"/></g>
+<g fill="#39dfff"><path d="M155 290h12v20h-12zm150-80h12v20h-12zm155 35h12v20h-12zm180-15h12v20h-12zm160 60h12v20h-12z"/></g>
+<path d="M370 620L430 350h40l60 270Z" fill="url(#road)"/><path d="M448 620l18-270h5l20 270" fill="none" stroke="#bd54ff" stroke-width="4" opacity=".8"/><path d="M0 620l370-270M900 620L530 350" stroke="#37dfff" stroke-width="3" opacity=".7"/>
+<path d="M0 490h900M0 540h900" stroke="#a64eff" stroke-width="2" opacity=".2"/>
+<text x="55" y="85" fill="#d8caff" font-family="Arial" font-size="18" letter-spacing="8">THE CITY AFTER DARK</text>
+</svg>

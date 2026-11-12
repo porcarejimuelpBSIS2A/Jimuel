@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="mist" x2="0" y2="1"><stop stop-color="#1a173d"/><stop offset="1" stop-color="#090b19"/></linearGradient><linearGradient id="moon"><stop stop-color="#a4a1ff"/><stop offset="1" stop-color="#4c4b9b"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#mist)"/><circle cx="670" cy="150" r="90" fill="url(#moon)" opacity=".65"/><path d="M0 390L120 240l85 120 105-190 95 205 95-145 105 160 100-230 105 230 90-90v320H0Z" fill="#11152c"/>
+<path d="M0 480q230-140 450 0t450 0v140H0Z" fill="#080a17"/>
+<g fill="none" stroke="#7866c8" stroke-width="5" opacity=".75"><path d="M100 450V260l70-65 70 65v190M660 450V230l70-70 70 70v220"/><path d="M100 260h140M660 230h140"/></g>
+<path d="M430 210l40-40 40 40-18 35 40 75-62 15-62-15 40-75z" fill="#24274b" stroke="#a58bff" stroke-width="4"/>
+<path d="M470 170v-65M455 112l15-28 15 28" stroke="#9cecff" stroke-width="5" fill="none"/>
+<path d="M420 310l-65 120 45 12 70-92 70 92 45-12-65-120" fill="#252849" stroke="#8873df" stroke-width="4"/>
+<path d="M470 250l-105 80M470 250l105 80" stroke="#d4d2ff" stroke-width="7" stroke-linecap="round"/>
+<path d="M0 550h900" stroke="#8b68e8" stroke-width="2" opacity=".5"/>
+<text x="55" y="85" fill="#d8caff" font-family="Arial" font-size="18" letter-spacing="8">THE LEGEND AWAKENS</text>
+</svg>

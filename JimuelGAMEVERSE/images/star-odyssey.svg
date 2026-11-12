@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="space" x2="1" y2="1"><stop stop-color="#10143b"/><stop offset=".55" stop-color="#30205c"/><stop offset="1" stop-color="#092b4a"/></linearGradient><linearGradient id="planet" x2="1" y2="1"><stop stop-color="#ff9bda"/><stop offset=".5" stop-color="#9a65e9"/><stop offset="1" stop-color="#3b75d9"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#space)"/>
+<g fill="#fff"><circle cx="90" cy="90" r="3"/><circle cx="205" cy="165" r="2"/><circle cx="355" cy="75" r="3"/><circle cx="520" cy="125" r="2"/><circle cx="780" cy="80" r="3"/><circle cx="835" cy="245" r="2"/><circle cx="120" cy="390" r="2"/><circle cx="710" cy="480" r="3"/><circle cx="300" cy="510" r="2"/></g>
+<g fill="#6de5ff" opacity=".8"><path d="M680 155l5 14 14 5-14 5-5 14-5-14-14-5 14-5z"/><path d="M160 275l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/></g>
+<circle cx="590" cy="340" r="175" fill="#6e4fd0" opacity=".25"/><circle cx="590" cy="330" r="145" fill="url(#planet)"/><path d="M465 295q125-85 258-8M455 365q145 70 275-5M510 215q60 40 130 12" fill="none" stroke="#ffb8e9" stroke-width="18" opacity=".22"/>
+<ellipse cx="590" cy="350" rx="220" ry="52" fill="none" stroke="#75e8ff" stroke-width="8" transform="rotate(-18 590 350)" opacity=".8"/>
+<path d="M160 400l120-35 65 40-65 10-40 55-18-52z" fill="#d7eaff" stroke="#6be5ff" stroke-width="4"/><path d="M280 365l25-45 22 85" fill="#9b77ff"/><path d="M160 400l-45 15 50 8" fill="#ff7bd2"/>
+<text x="55" y="85" fill="#d8caff" font-family="Arial" font-size="18" letter-spacing="8">BEYOND THE KNOWN</text>
+</svg>
